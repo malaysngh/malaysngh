@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)](https://malaysngh.io)
 <h1 align="center">Hi 👋, I'm Malay Singh</h1>
-<h3 align="center">A passionate Android developer from IndiaIndia</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/qgQUggAC3Pfv687qPC")
+<h3 align="center">A passionate Android developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malaysngh&label=Profile%20views&color=0e75b6&style=flat" alt="malaysngh" /> </p>
